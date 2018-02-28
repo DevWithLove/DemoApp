@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>DemoAppTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0233D973204631480090A140</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0233D987204631480090A140</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0233D992204631480090A140</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

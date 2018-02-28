@@ -9,7 +9,7 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
-		<key>DemoAppTest.xcscheme</key>
+		<key>DemoAppTests.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>12</integer>

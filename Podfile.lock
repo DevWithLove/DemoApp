@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - ObjectMapper (3.1.0)
+  - PromiseKit (6.2.0):
+    - PromiseKit/CorePromise (= 6.2.0)
+    - PromiseKit/Foundation (= 6.2.0)
+    - PromiseKit/UIKit (= 6.2.0)
+  - PromiseKit/CorePromise (6.2.0)
+  - PromiseKit/Foundation (6.2.0):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.2.0):
+    - PromiseKit/CorePromise
+  - Realm (3.1.1):
+    - Realm/Headers (= 3.1.1)
+  - Realm/Headers (3.1.1)
+  - RealmSwift (3.1.1):
+    - Realm (= 3.1.1)
+  - SlideMenuControllerSwift (4.0.0)
+  - SwiftDate (4.5.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6.0)
+  - AlamofireObjectMapper (~> 5.0)
+  - PromiseKit (~> 6.0)
+  - RealmSwift
+  - SlideMenuControllerSwift
+  - SwiftDate (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  PromiseKit: ea9a155e1fd98a926ccfaf633c0fbd69851f0e7b
+  Realm: 42d1c38a5b1bbcc828b48a7ce702cb86fc68adf4
+  RealmSwift: d31937ca6a6ee54acde64ec839523c0a3c04924b
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+  SwiftDate: 7b56d42a221f582047287deb256b23fc5ed49a60
+
+PODFILE CHECKSUM: 38aed00d3bc6f67a9a40d2667e295bd6d60f744d
+
+COCOAPODS: 1.4.0

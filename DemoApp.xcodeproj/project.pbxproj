@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		021DA1982357E4410087F332 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021DA1972357E4410087F332 /* Animal.swift */; };
 		0233D978204631480090A140 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0233D977204631480090A140 /* AppDelegate.swift */; };
 		0233D97A204631480090A140 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0233D979204631480090A140 /* RootViewController.swift */; };
 		0233D97D204631480090A140 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0233D97B204631480090A140 /* Main.storyboard */; };
@@ -53,6 +54,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		021DA1972357E4410087F332 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 		0233D974204631480090A140 /* DemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0233D977204631480090A140 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0233D979204631480090A140 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				0233D9C520464AA30090A140 /* UIFontExtension.swift */,
 				0233D9C720464DF50090A140 /* UIColorExtension.swift */,
 				0241DEFA2046878900D45285 /* UIViewExtension.swift */,
+				021DA1972357E4410087F332 /* Animal.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -584,6 +587,7 @@
 				0233D97A204631480090A140 /* RootViewController.swift in Sources */,
 				0233D9AB204647310090A140 /* Color.swift in Sources */,
 				0233D9C820464DF50090A140 /* UIColorExtension.swift in Sources */,
+				021DA1982357E4410087F332 /* Animal.swift in Sources */,
 				0233D9C620464AA30090A140 /* UIFontExtension.swift in Sources */,
 				0233D978204631480090A140 /* AppDelegate.swift in Sources */,
 			);

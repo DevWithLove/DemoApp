@@ -9,5 +9,7 @@
 import UIKit
 
 class Animal: NSObject {
-
+    func eat() {
+        
+    }
 }
